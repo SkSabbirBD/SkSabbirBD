@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm _Sabbir Hossen Chowdhury_
 #### _I am Web Application Developer_
-![I am Web Application Developer](https://raw.githubusercontent.com/SkSabbirBD/SkSabbirBD/master/img/work-station.jpg)
+![I am Web Application Developer](https://raw.githubusercontent.com/SkSabbirBD/SkSabbirBD/master/img/work-station-min.jpg)
 
 I am a Web Designer & Developer, and I’m very passionate and dedicated to my work. With good experience as a Professional Web Developer & Word Press Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration. 
 
