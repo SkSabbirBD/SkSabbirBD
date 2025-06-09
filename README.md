@@ -11,7 +11,7 @@ Main Skills: PHP (OOP & Core) / AJAX / REST API / JAVASCRIPT/ JQUERY
 
 - 🌱 I’m currently learning Laravel (PHP Framework)
 - 💬 Ask me about Programming & Data Structure  💻 
-- 📫 How to reach me: contact@sabbir.xyz 
+- 📫 How to reach me: developer.sabbir.bd@gmail.com 
 - ⚡ Fun fact: Like to Travel & Eat 🥘 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SkSabbirBD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SkSabbirBD/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/developer.sabbir.bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SkSabbir_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](skype:wanted69261?chat) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg' alt='website' height='40'>](https://sabbir.xyz/) 
